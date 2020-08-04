@@ -12,4 +12,4 @@ const store = (window.devToolsExtension ? window.devToolsExtension()(createStore
 
 
 
-export default store;
+export default reduce;
